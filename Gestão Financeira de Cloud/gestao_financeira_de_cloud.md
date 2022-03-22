@@ -36,6 +36,10 @@ Realização da atividade do Case
 - Calculadora TCO da AWS: https://azure.microsoft.com/pt-br/pricing/tco/calculator/
 - Calculadora TCO da Oracle: https://www.oracle.com/br/cloud/cost-estimator.html
 
+AWS API para realizar a consulta dos preços por serviço, PYTHON - Boto3
+
+https://aws.amazon.com/pt/blogs/aws/aws-price-list-api-update-new-query-and-metadata-functions/
+
 
 
 
